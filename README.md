@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi THERE 👋
+### I'M JANARTHANAN
 
 <!--
 **janarthanan9677/Janarthanan9677** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
