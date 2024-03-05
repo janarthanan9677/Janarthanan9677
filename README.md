@@ -26,7 +26,7 @@
 
 ### Known Languages and Tools:
   <br/>
-(https://img.shields.io/badge/Java-black.svg?style=for-the-badge&logo=Java&labelColor=black)
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 ![Python](https://img.shields.io/badge/Python-black.svg?style=for-the-badge&logo=Python&labelColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black.svg?style=for-the-badge&logo=Javascript&labelColor=black)
 ![Typescript](https://img.shields.io/badge/Typescript-black.svg?style=for-the-badge&logo=Typescript&labelColor=black)
