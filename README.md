@@ -25,11 +25,10 @@
 <a href="https://www.instagram.com/itz_janarthanan?igsh=MWxnbGVvN3JxYnV3ZQ==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40"/></a></p>
 
 ### Known Languages and Tools:
-  <br/>
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+
+![Java](https://img.shields.io/badge/Java-black.svg?style=for-the-badge&logo=Java&labelColor=black)
 ![Python](https://img.shields.io/badge/Python-black.svg?style=for-the-badge&logo=Python&labelColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black.svg?style=for-the-badge&logo=Javascript&labelColor=black)
-![Typescript](https://img.shields.io/badge/Typescript-black.svg?style=for-the-badge&logo=Typescript&labelColor=black)
 ![GitHub](https://img.shields.io/badge/Github-black.svg?style=for-the-badge&logo=Github&labelColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-black.svg?style=for-the-badge&logo=Bootstrap&labelColor=black&logoWidth=20)
 ![MySQL](https://img.shields.io/badge/MySQL-black.svg?style=for-the-badge&logo=MySQL&labelColor=black)
