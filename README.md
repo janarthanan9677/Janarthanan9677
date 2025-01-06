@@ -35,4 +35,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=black&logoWidth=20)
 ![MySQL](https://img.shields.io/badge/MySQL-black.svg?style=for-the-badge&logo=MySQL&labelColor=black)
 <br/><br/>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=janarthanan&show_icons=true&locale=en&layout=compact" alt="janarthanan" /></p>
   
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=janarthanan&show_icons=true&locale=en" alt="janarthanan" /></p>
