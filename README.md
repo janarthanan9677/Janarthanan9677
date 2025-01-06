@@ -36,6 +36,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-black.svg?style=for-the-badge&logo=MySQL&labelColor=black)
 <br/><br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=janarthanan&show_icons=true&locale=en&layout=compact" alt="janarthanan" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=janarthanan9677&show_icons=true&locale=en&layout=compact" alt="janarthanan" /></p>
   
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=janarthanan&show_icons=true&locale=en" alt="janarthanan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=janarthanan9677&show_icons=true&locale=en" alt="janarthanan" /></p>
